@@ -10,6 +10,6 @@ It contains model that can classify images of 5 artists { **Allu Arjun**,**Chira
 
  To detect faces used ***opencv haar cascades*** and ***SVM*** is used on detected faces  
 
-![Alt text](/UI/images/Processed.jpg?raw=true "Optional Title")
+![Alt text](https://github.com/toolazy00i/Artist-Classification/blob/main/UI/images/Processed.jpeg "Optional Title")
  
 Dataset size : **500 images**

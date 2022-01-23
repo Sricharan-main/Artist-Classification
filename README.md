@@ -4,7 +4,7 @@
 
 It contains model that can classify images of 5 artists { **Allu Arjun**,**Chiranjeevi**,**Mahesh Babu**,**Ntr jr**,**Prabhas**}
 
-![Alt text](/UI/images/init.jpg?raw=true "Optional Title")
+![Alt text](https://github.com/toolazy00i/Artist-Classification/blob/main/UI/images/init.jpeg "Optional Title")
 
  ***SVM Linear Model*** is used and got an accuracy of 82.4% 
 
